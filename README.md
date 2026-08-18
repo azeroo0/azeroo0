@@ -26,25 +26,12 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=azeroo0&show_icons=true&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8&border_radius=10" />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azeroo0&layout=compact&langs_count=6&exclude_repo=azeroo0&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&border_color=e8e8e8&border_radius=10" />
-    </div>
-</div>
-
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Summary (org 기여 포함) </h2>
-<!--START_SECTION:summary-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/0-profile-details.svg" />
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg" width="49%" />
-    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg" width="49%" />
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/3-stats.svg" width="49%" />
-    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/4-productive-time.svg" width="49%" />
-</p>
-<!--END_SECTION:summary-->
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+    </p>
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azeroo0&theme=default&bg_color=ffffff&utcOffset=9&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+    </p>
 </div>
