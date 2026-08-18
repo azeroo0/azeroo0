@@ -32,5 +32,19 @@
     </div>
 </div>
 
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Summary (org 기여 포함) </h2>
 <!--START_SECTION:summary-->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/0-profile-details.svg" />
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/1-repos-per-language.svg" width="49%" />
+    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg" width="49%" />
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/3-stats.svg" width="49%" />
+    <img src="https://raw.githubusercontent.com/azeroo0/azeroo0/main/profile-summary-card-output/rose_pine/4-productive-time.svg" width="49%" />
+</p>
 <!--END_SECTION:summary-->
+</div>
