@@ -27,8 +27,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="60%" />
     </p>
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
