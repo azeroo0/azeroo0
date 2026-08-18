@@ -1,33 +1,33 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Yoon%20Ayoung&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8B5E8,100:F5C7E8&height=240&text=Yoon%20Ayoung&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
-<div align= "center">
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <div align="center">
+        <img src="https://img.shields.io/badge/React-B8B5E8?style=for-the-badge&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-B8B5E8?style=for-the-badge&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-B8B5E8?style=for-the-badge&logo=MySQL&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F5C7E8?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-F5C7E8?style=for-the-badge&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Matlab-F5C7E8?style=for-the-badge&logo=Matlab&logoColor=white">
     </div>
 </div>
 
-<div align= "center">
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
-    <div align= "center">
+    <div align="center">
         <a href="mailto:emily021209@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emily021209@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D8A7D8?style=for-the-badge&logo=Gmail&logoColor=white">
         </a>
     </div>
 </div>
 
-<div align= "center">
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div align= "center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=azeroo0&bg_color=180,000000,00000000&title_color=f52e7f&text_color=f52e7f" />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azeroo0&layout=compact&bg_color=180,000000,00000000&title_color=f52e7f&text_color=f52e7f" />
+    <div align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=azeroo0&show_icons=true&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8&border_radius=10" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azeroo0&layout=compact&langs_count=6&exclude_repo=azeroo0&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&border_color=e8e8e8&border_radius=10" />
     </div>
 </div>
