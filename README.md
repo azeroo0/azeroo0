@@ -31,6 +31,6 @@
     </p>
     <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azeroo0&theme=default&bg_color=ffffff&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azeroo0&theme=default&bg_color=ffffff&utcOffset=9&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8" width="49%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azeroo0&theme=default&bg_color=ffffff&utcOffset=9&title_color=B8B5E8&text_color=282d33&icon_color=F5C7E8&border_color=e8e8e8&chart_color=B8B5E8" width="49%" />
     </p>
 </div>
