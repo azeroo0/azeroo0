@@ -7,8 +7,10 @@
     <div align="center">
         <img src="https://img.shields.io/badge/React-A8B8EE?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Python-A8B8EE?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-A8B8EE?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-A8B8EE?style=for-the-badge&logo=C++&logoColor=white">
+        <img src="https://img.shields.io/badge/C-A8B8EE?style=for-the-badge&logo=C&logoColor=white">
         <br/>
+        <img src="https://img.shields.io/badge/MySQL-A8B8EE?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Git-C0EFA0?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-C0EFA0?style=for-the-badge&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-C0EFA0?style=for-the-badge&logo=TypeScript&logoColor=white">
